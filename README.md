@@ -5,12 +5,8 @@
 ### ⚡ STATS
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KHAIRULBASHARI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHAIRULBASHARI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHAIRULBASHARI&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KHAIRULBASHARI&theme=merko" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KHAIRULBASHARI&theme=merko" />
 </p>
 
 ---
