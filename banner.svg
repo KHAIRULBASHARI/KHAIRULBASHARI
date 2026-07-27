@@ -109,7 +109,7 @@
   <text x="15" y="20" class="dim2">╔═══════════════════════════════════════════════════════════════════════════════════════╗</text>
   <text x="15" y="35" class="dim">║ ZWALK880@H4CK3R:~</text>
   <text x="195" y="35" class="dim2">$</text>
-  <text x="205" y="35" class="green" font-size="10">./deploy.sh --hack-mode --tech all 2>&1 | tee /dev/null</text>
+  <text x="205" y="35" class="green" font-size="10">./deploy.sh --hack-mode --tech all 2&gt;&amp;1 | tee /dev/null</text>
   <text x="15" y="50" class="dim2">╚═══════════════════════════════════════════════════════════════════════════════════════╝</text>
 
   <text x="15" y="68" class="dim2">│</text>
