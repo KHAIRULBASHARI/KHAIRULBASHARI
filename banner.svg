@@ -142,13 +142,41 @@
   </line>
 
   <g class="train">
-    <rect x="0" y="196" width="26" height="12" rx="3" fill="#00ff41" opacity="0.9"/>
-    <rect x="2" y="198" width="9" height="5" fill="#0D1117"/>
-    <rect x="13" y="198" width="9" height="5" fill="#0D1117"/>
-    <circle cx="6" cy="212" r="3" fill="#005511"/>
-    <circle cx="18" cy="212" r="3" fill="#005511"/>
-    <text x="10" y="192" class="smoke" font-size="7" fill="#00ff41" opacity="0.6">o</text>
-    <text x="14" y="188" class="smoke2" font-size="5" fill="#00ff41" opacity="0.4">o</text>
+    <g>
+      <rect x="0" y="186" width="70" height="8" rx="2" fill="#00ff41" opacity="0.05"/>
+      <rect x="0" y="196" width="70" height="18" rx="3" fill="#0a0a0a" stroke="#00ff41" stroke-width="1" opacity="0.8"/>
+      <rect x="2" y="198" width="24" height="6" fill="#003300" rx="1"/>
+      <rect x="28" y="198" width="12" height="6" fill="#003300" rx="1"/>
+      <rect x="2" y="206" width="10" height="6" fill="#00ff41" opacity="0.3" rx="1"/>
+      <rect x="14" y="206" width="10" height="6" fill="#00ff41" opacity="0.3" rx="1"/>
+      <text x="44" y="202" font-size="7" fill="#00ff41" font-weight="bold" font-family="'Courier New',monospace">H4CK</text>
+      <text x="44" y="210" font-size="5" fill="#006622" font-family="'Courier New',monospace">3R++</text>
+    </g>
+    <g>
+      <rect x="58" y="200" width="14" height="12" rx="2" fill="#0a0a0a" stroke="#00ff41" stroke-width="0.8" opacity="0.8"/>
+      <rect x="60" y="202" width="6" height="4" fill="#00ff41" opacity="0.5" rx="1">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g>
+      <circle cx="10" cy="218" r="5" fill="#003300" stroke="#00ff41" stroke-width="0.5"/>
+      <circle cx="10" cy="218" r="2" fill="#00ff41" opacity="0.6"/>
+      <circle cx="10" cy="218" r="6" fill="none" stroke="#00ff41" stroke-width="0.5" opacity="0.2">
+        <animate attributeName="r" values="6;8;6" dur="1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="28" cy="218" r="5" fill="#003300" stroke="#00ff41" stroke-width="0.5"/>
+      <circle cx="28" cy="218" r="2" fill="#00ff41" opacity="0.6"/>
+      <circle cx="46" cy="218" r="5" fill="#003300" stroke="#00ff41" stroke-width="0.5"/>
+      <circle cx="46" cy="218" r="2" fill="#00ff41" opacity="0.6"/>
+      <circle cx="62" cy="218" r="5" fill="#003300" stroke="#00ff41" stroke-width="0.5"/>
+      <circle cx="62" cy="218" r="2" fill="#00ff41" opacity="0.6"/>
+    </g>
+    <text x="5" y="185" font-size="6" fill="#00ff41" opacity="0.4" class="smoke" font-family="'Courier New',monospace">o</text>
+    <text x="10" y="180" font-size="5" fill="#00ff41" opacity="0.2" class="smoke2" font-family="'Courier New',monospace">o</text>
+    <text x="15" y="178" font-size="4" fill="#00ff41" opacity="0.1" font-family="'Courier New',monospace">o</text>
+    <circle cx="4" cy="200" r="2" fill="#00ff41" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <g>
